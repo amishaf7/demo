@@ -1,3 +1,3 @@
 function notify(msg){
-  alert("-Notification: " + msg);
+  alert("2Notification: " + msg);
 }
