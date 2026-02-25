@@ -1,1 +1,1 @@
-const CONFIG = { apiUrl: "https://api.example.com" };
+const CONFIG = { apiUrl: "https://i.example.com" };
